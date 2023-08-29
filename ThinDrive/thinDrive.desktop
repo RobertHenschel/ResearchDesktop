@@ -4,8 +4,8 @@
 Version=1.0
 Type=Application
 Terminal=false
-Icon=/mnt/soft/scripts/thinDrive.png
-Icon[en_US]=/mnt/soft/scripts/thinDrive.png
+Icon=/mnt/soft/scripts/thinDrive.svg
+Icon[en_US]=/mnt/soft/scripts/thinDrive.svg
 Name=Shared Folder - ThinDrive
 Name[en_US]=Shared Folder - ThinDrive
 Comment=Show files from your machine.
