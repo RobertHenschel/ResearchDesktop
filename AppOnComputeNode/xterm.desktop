@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name[en_US]=xterm on ComputeNode
+Exec=/mnt/soft/scripts/github/appOnComputeNode.sh /mnt/soft/scripts/github/xterm.sh xterm 1 1
+Icon=/mnt/soft/scripts/github/xterm.png
+Icon[en_US]=xterm
+Name=xterm on ComputeNode
