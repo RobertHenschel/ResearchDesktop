@@ -4,9 +4,9 @@
 Version=1.0
 Type=Application
 Terminal=false
-Exec=/mnt/soft/scripts/InteractiveJob.sh
-Name[en_US]=Interactive Job
-Comment[en_US]=Launch and interactive job on a compute node.
+Exec=/mnt/soft/scripts/interactiveJob.sh
 Name=Interactive Job
+Name[en_US]=Interactive Job
 Comment=Launch and interactive job on a compute node.
-Icon=/mnt/soft/scripts/InteractiveJob.png
+Comment[en_US]=Launch and interactive job on a compute node.
+Icon=/mnt/soft/scripts/interactiveJob.png
