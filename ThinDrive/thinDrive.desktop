@@ -1,0 +1,14 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/mnt/soft/scripts/thinDrive.png
+Icon[en_US]=/mnt/soft/scripts/thinDrive.png
+Name=Shared Folder - ThinDrive
+Name[en_US]=Shared Folder - ThinDrive
+Comment=Show files from your machine.
+Comment[en_US]=Show files from your machine.
+Exec=/mnt/soft/scripts/thinDrives.sh
+
