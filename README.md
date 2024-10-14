@@ -3,6 +3,9 @@ This repository builds on the work of organizations like [Research Technologies 
 # Desktop Customizations
 [Here](./DesktopCustomizations/README.md) you find ideas and implementations how to modify a vanilla Linux desktop into a Research Desktop.
 
+# Tools and Applications
+[Here](./ToolsAndApplications/README.md) you find tools that help with building a Research Desktop or that users of Research Desktops will find useful.
+
 # Publications about the Research Desktop
 - [Use Cases for High Performance Research Desktops](https://arxiv.org/abs/2404.03298)
 - [Interactive and Urgent HPC: Challenges and Opportunities](https://arxiv.org/abs/2401.14550)
