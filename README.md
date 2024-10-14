@@ -11,4 +11,7 @@ This repository builds on the work of organizations like [Research Technologies 
 - [Interactive and Urgent HPC: Challenges and Opportunities](https://arxiv.org/abs/2401.14550)
 - [Research Computing Desktops: Demystifying research computing for non-Linux users](https://dl.acm.org/doi/10.1145/3332186.3332206)
 
+# How to Contribute
+There are multiple ways to contribute to this repository. If you would like to make me aware of a tool or desktop customization, simply reach out to [me](https://github.com/RobertHenschel). Alternatively, you can [open an issue](https://github.com/RobertHenschel/ResearchDesktop/issues) in this repository or you can make the changes and submit a [pull request](https://github.com/RobertHenschel/ResearchDesktop/pulls) for this repository. Also, please let me know how I can acknowledge your contributions.
+
 
