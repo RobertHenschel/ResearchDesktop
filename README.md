@@ -6,6 +6,11 @@ This repository builds on the work of organizations like [Research Technologies 
 # Tools and Applications
 [Here](./ToolsAndApplications/README.md) you find tools that help with building a Research Desktop or that users of Research Desktops will find useful.
 
+# Use Cases for Research Desktops
+Use cases for the Research Desktop can be loosely grouped into "standard desktop features to enable research workflows and tasks" and "specific tools for interfacing with HPC compute and storage systems and research infrastructure".
+
+[This section](./UseCases/README.md) lists a large number of those seemingly obvious use cases, and highlights why those are surprisingly useful in an HPC environment.
+
 # Publications about the Research Desktop
 - [Use Cases for High Performance Research Desktops](https://arxiv.org/abs/2404.03298)
 - [Interactive and Urgent HPC: Challenges and Opportunities](https://arxiv.org/abs/2401.14550)
