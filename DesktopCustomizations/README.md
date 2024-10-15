@@ -3,7 +3,7 @@ This section contains ideas and implementations how to change a plain Linux desk
 Most of the tools are based on the [MATE Desktop Environment](https://mate-desktop.org/) but can be adapted for other desktop environments.
 
 ## Interactive Job
-New users find it hard to run an interactive job in the batch system. One way to get users to try running in the batch system is to initially hide the functionality behind an icon on the desktop. Here is an animation how this could look like:  
+New users find it hard to run an interactive job in the batch system. One way to get users to try running in the batch system is to initially hide the functionality behind an icon on the desktop. Here is an animation how this could look like. Note that the command that is used to launch the interactive job is printed into the terminal. This allows new users to learn how to launch on interactive job themselves. 
 <img src="https://github.com/RobertHenschel/ResearchDesktop/blob/main/DesktopCustomizations/InteractiveJob/interactiveJob.gif" width="75%">
 
 ## ThinDrive / Shared Folder
