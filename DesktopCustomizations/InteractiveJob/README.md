@@ -4,7 +4,7 @@ One of the first things that new HPC users have to learn is how to run batch job
 The script requires [Zenity](https://help.gnome.org/users/zenity/stable/), a GNOME utility to display graphical dialogs, and runs the [MATE-Terminal](https://wiki.mate-desktop.org/mate-desktop/applications/mate-terminal/).  
 The script should be easy to adapt to your batch system and batch system configuration. The animation below shows what it is like to use the script.
 
-```
+```bash
 #!/bin/bash
 
 CORES=2
