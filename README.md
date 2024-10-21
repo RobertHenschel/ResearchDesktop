@@ -2,7 +2,13 @@ This repository builds on the work of organizations like [Research Technologies 
 
 # Desktop Customizations
 This [section](./DesktopCustomizations/README.md) contains ideas and implementations how to change a plain Linux desktop into a Research Desktop. This involves adding icons to the desktop and also modifying the global application menu. The goal is to provide users with a desktop that makes it easy to run scientific applications and workflows.  
-Most of the tools are based on the [MATE Desktop Environment](https://mate-desktop.org/) but can be adapted for other desktop environments.
+Most of the tools are based on the [MATE Desktop Environment](https://mate-desktop.org/) but can be adapted for other desktop environments.  
+Desktop customizatins include:
+- An icon to launch an [interactive job](./DesktopCustomizations/InteractiveJob/README.md).
+- An icon to launch the [file browser for ThinDrives](./DesktopCustomizations/ThinDrive/README.md), or bring up the documentation how to configure ThinDrives. ([ThinDrives](https://www.cendio.com/resources/docs/tag/redir_drives.html) is a feature of ThinLinc that allows easily sharing a local directory on your machine with the remote desktop.)
+- An icon to launch a [graphical application on a compute node using the batch system](./DesktopCustomizations/AppOnComputeNode/README.md).
+
+More desktops customizations are coming!
 
 # Tools and Applications
 [Here](./ToolsAndApplications/README.md) you find tools that help with building a Research Desktop or that users of Research Desktops will find useful.
