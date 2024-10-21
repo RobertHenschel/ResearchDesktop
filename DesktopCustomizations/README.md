@@ -7,6 +7,8 @@ New users find it hard to run an interactive job in the batch system. One way to
 
 <img src="https://github.com/RobertHenschel/ResearchDesktop/blob/main/DesktopCustomizations/InteractiveJob/interactiveJob.gif" width="75%">
 
+All scripts and icons to implement this functionality are available in the [InteractiveJob directory](./InteractiveJob/README.md) in this repository. This page also contains a guide how to implement this functionality in your cluster. One tool to push configuration out to all users is to use the [Desktop Customer](https://www.cendio.com/resources/docs/tag/tldc.html) that ships with ThinLinc. A guide how to use the Desktop Customizer is available in the [ThinLinc Community](https://community.thinlinc.com/t/how-can-i-customise-the-desktop-environment-within-a-thinlinc-session/717).
+
 ## ThinDrive / Shared Folder
 Icon that either opens the shared folder or displays a message that the shared folder is not mounted and points to the documentation.
 
