@@ -14,7 +14,9 @@ Icon that either opens the shared folder or displays a message that the shared f
 
 <img src="https://github.com/RobertHenschel/ResearchDesktop/blob/main/DesktopCustomizations/ThinDrive/thinDrive.gif" width="75%">
 
-## Application on a compute node with X-Fowarding to the Desktop
-Run an application on a compute node and display the GUI on the desktop, by clicking on an icon on the desktop.
+## Graphical Application on a Compute Node
+Most graphical applications can be run directly on the desktop, but there are applications that require more resources than a shared desktop environment can provide. Such applications can be launched in the batch system and the graphical user interface will be displayed on the desktop. Depending on the configuration of the batch system and the desktop, users will see no difference between launching an application on desktop or through the batch system.
 
-<img src="https://github.com/RobertHenschel/ResearchDesktop/blob/main/DesktopCustomizations/AppOnComputeNode/xterm.gif" width="75%">
+<img src="https://github.com/RobertHenschel/ResearchDesktop/blob/main/DesktopCustomizations/AppOnComputeNode/Fiji_on_compute_node.gif" width="75%">
+
+All scripts and icons to implement this functionality are available in the [ApOnComputeNode directory](./AppOnComputeNode/README.md) in this repository. This page also contains a guide how to implement this functionality in your cluster. 
