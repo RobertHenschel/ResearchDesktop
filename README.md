@@ -19,9 +19,9 @@ Use cases for the Research Desktop can be loosely grouped into "standard desktop
 [This section](./UseCases/README.md) lists a large number of those seemingly obvious use cases, and highlights why those are surprisingly useful in an HPC environment.
 
 # Publications about the Research Desktop
-- [Use Cases for High Performance Research Desktops](https://arxiv.org/abs/2404.03298)
-- [Interactive and Urgent HPC: Challenges and Opportunities](https://arxiv.org/abs/2401.14550)
-- [Research Computing Desktops: Demystifying research computing for non-Linux users](https://dl.acm.org/doi/10.1145/3332186.3332206)
+- Use Cases for High Performance Research Desktops [Paper PDF](./Documents/HPC_Desktops_Github_Paper.pdf) | [Presentation Slides](./Documents/HPC_Desktops_Github_Slides.pdf)
+- Interactive and Urgent HPC: Challenges and Opportunities [Paper PDF ](https://arxiv.org/abs/2401.14550)
+- Research Computing Desktops: Demystifying research computing for non-Linux users [Paper PDF](https://dl.acm.org/doi/10.1145/3332186.3332206)
 
 # How to Contribute
 There are multiple ways to contribute to this repository. If you would like to make me aware of a tool or desktop customization, simply reach out to [me](https://github.com/RobertHenschel). Alternatively, you can [open an issue](https://github.com/RobertHenschel/ResearchDesktop/issues) in this repository or you can make the changes and submit a [pull request](https://github.com/RobertHenschel/ResearchDesktop/pulls) for this repository. Also, please let me know how I can acknowledge your contributions.
