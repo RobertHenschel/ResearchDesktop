@@ -1,3 +1,18 @@
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Research Desktop </h1>
+    </summary>
+  </ul>
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2>Desktop Simplicity ⇒ Supercomputing Capability ⇒ Infinite Possibilities.</h2>
+    </summary>
+  </ul>
+</div>
+
+This repository is dedicated to the concept of using a desktop as a user interface to a supercomputer or HPC system.
+
 This repository builds on the work of organizations like [Research Technologies at Indiana University](https://kb.iu.edu/d/apum), [The Centre for Scientific and Technical Computing at Lund University](https://www.lunarc.lu.se/) and [The Computing Center at Denmark Technical University](https://www.hpc.dtu.dk/) that have used [ThinLinc](https://www.cendio.com/) to create a Research Desktop. 
 
 # Desktop Customizations
