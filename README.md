@@ -6,7 +6,7 @@
   </ul>
   <ul align="center" style="list-style: none;">
     <summary>
-      <h3>Desktop Simplicity ⇒ Supercomputing Capability ⇒ Infinite Possibilities.</h3>
+      <h3>Desktop Simplicity ⇒ Supercomputing Capability ⇒ Infinite Possibilities</h3>
     </summary>
   </ul>
 </div>
