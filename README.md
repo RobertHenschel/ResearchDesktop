@@ -31,9 +31,11 @@ Most of the tools are based on the [MATE Desktop Environment](https://mate-deskt
 [Here](./ToolsAndApplications/README.md) you find tools that help with building a Research Desktop or that users of Research Desktops will find useful.
 
 # Publications about the Research Desktop
-- Use Cases for High Performance Research Desktops [Paper PDF](./Documents/HPC_Desktops_Github_Paper.pdf) | [Presentation Slides](./Documents/HPC_Desktops_Github_Slides.pdf)
+- SC24: Interactive HPC and the LUNARC Desktop
+Environment [Paper PDF](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400c012/555400c012.pdf) | [Presentation Slides](https://drive.google.com/file/d/1VMKT_89wQqDLyBwWpR5MT_pCISXVgnzG/view?usp=sharing)
+- ISC24: Use Cases for High Performance Research Desktops [Paper PDF](./Documents/HPC_Desktops_Github_Paper.pdf) | [Presentation Slides](./Documents/HPC_Desktops_Github_Slides.pdf)
 - Interactive and Urgent HPC: Challenges and Opportunities [Paper PDF ](https://arxiv.org/abs/2401.14550)
-- Research Computing Desktops: Demystifying research computing for non-Linux users [Paper PDF](https://dl.acm.org/doi/10.1145/3332186.3332206)
+- PEARC19: Research Computing Desktops: Demystifying research computing for non-Linux users [Paper PDF](https://dl.acm.org/doi/10.1145/3332186.3332206)
 
 # How to Contribute
 There are multiple ways to contribute to this repository. If you would like to make me aware of a tool or desktop customization, simply reach out to [me](https://github.com/RobertHenschel). Alternatively, you can [open an issue](https://github.com/RobertHenschel/ResearchDesktop/issues) in this repository or you can make the changes and submit a [pull request](https://github.com/RobertHenschel/ResearchDesktop/pulls) for this repository. Also, please let me know how I can acknowledge your contributions.
